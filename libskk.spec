@@ -6,7 +6,7 @@
 #
 Name     : libskk
 Version  : 1.0.5
-Release  : 1
+Release  : 2
 URL      : https://github.com/ueno/libskk/releases/download/1.0.5/libskk-1.0.5.tar.xz
 Source0  : https://github.com/ueno/libskk/releases/download/1.0.5/libskk-1.0.5.tar.xz
 Source1 : https://github.com/ueno/libskk/releases/download/1.0.5/libskk-1.0.5.tar.xz.sig
